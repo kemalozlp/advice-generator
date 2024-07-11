@@ -103,7 +103,7 @@ h6 {
 @media (width <=375px) {
   .container {
     margin: 0 auto;
-    width: 343px;
+    width: 100%;
     padding: 24px;
   }
   .container p {
