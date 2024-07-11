@@ -53,6 +53,7 @@ h6 {
   border-radius: 15px;
   background-color: #313A48;
   margin: 150px auto;
+  position: relative;
 }
 
 .header h1 {
